@@ -75,7 +75,7 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please reach out at [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please reach out at [amritaprasad1705@gmail.com](mailto:amritaprasad1705@gmail.com).
 
 ---
 
